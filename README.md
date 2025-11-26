@@ -1,4 +1,4 @@
-# Clock_Module_for_NPUNPU Clock Module – C2S/MeitY RISC-V Edge-AI Processor
+# NPU Clock Module – C2S/MeitY RISC-V Edge-AI Processor
 
 This repository contains the design work completed as part of the Special Manpower Development Programme for Chips to System Design (SMDP-C2SD) funded by the Ministry of Electronics & IT (MeitY), Govt. of India.
 
